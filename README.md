@@ -1,6 +1,6 @@
 ﻿# 施恆益 (Hengyi Shih)
 * Birthday : 1989/03/25
-* Education : 國立臺北科技大學研究所 - 土木防災所(水利組)
+* Education : 國立臺北科技大學研究所 - 土木防災所
 * Personal Website : https://github.com/hamilton25x
 * Location : 彰化縣
 * E-Mail : hamilton25x@hotmail.com
