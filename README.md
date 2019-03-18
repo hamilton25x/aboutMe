@@ -14,8 +14,9 @@
 * 能夠使用 CSS 做出網頁排版與 RWD 響應式設計。
 * 能夠使用 Pug 與 Sass 提升寫網頁的效率。
 ### JavaScript/jQuery
-* 對 JavaScript 有基礎的了解。
-* 會使用 jQuery 做動畫效果、AJAX 抓取第三方 API 資料以及套用 jQuery plugin 在網頁上。
+* 對 JavaScript/jQuery 有基礎的了解。
+* 會使用 AJAX 抓取第三方 API 資料呈現於網頁上。
+* 會套用 jQuery plugin 於網頁上。
 ### Bootstrap 
 * 能夠使用 Bootstrap 4 做出網頁排版與 RWD 響應式設計。
 * 能夠使用 Bootstrap 4 結合 Sass 編譯去自訂元件。
