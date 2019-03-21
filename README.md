@@ -9,10 +9,10 @@
 ## 技能
 ### HTML / CSS
 * 瞭解 HTML 語意。
-* 瞭解 animate、transform 跟 transition。
-* 瞭解 Flex 與 Grid Layout。
+* 熟悉 animate、transform 跟 transition。
+* 熟悉 Flex 與 Grid Layout。
 * 能夠使用 CSS 做出網頁排版與 RWD 響應式設計。
-* 能夠使用 Pug 與 Sass 提升寫網頁的效率。
+* 能夠使用 Pug 與 Sass 預處理器。
 ### JavaScript / jQuery
 * 對 JavaScript / jQuery 有基礎的了解。
 * 會使用 AJAX 抓取第三方 API 資料呈現於網頁上。
