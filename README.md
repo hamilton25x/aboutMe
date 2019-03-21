@@ -9,8 +9,8 @@
 ## 技能
 ### HTML / CSS
 * 瞭解 HTML 語意。
-* 瞭解 CSS3 的 animate、transform 跟 transition。
-* 瞭解 CSS3 的 Flex 與 Grid Layout。
+* 瞭解 animate、transform 跟 transition。
+* 瞭解 Flex 與 Grid Layout。
 * 能夠使用 CSS 做出網頁排版與 RWD 響應式設計。
 * 能夠使用 Pug 與 Sass 提升寫網頁的效率。
 ### JavaScript / jQuery
@@ -23,9 +23,10 @@
 ### Git / GitHub
 * 對Git版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。
 * 能夠使用 GitHub Pages 建立一個靜態網頁。
+### Vue.js (學習中)
 
 ## 作品
-
+* 健康膳食網頁(運用HTML、CSS、jQuery製作RWD網頁) - https://github.com/hamilton25x/heifood
 
 ## 自我介紹
 * 喜歡嘗試新技術，不希望侷限在自己目前所會的技術裡，期望自己每天都在進步。
