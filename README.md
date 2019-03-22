@@ -26,7 +26,12 @@
 ### Vue.js (學習中)
 
 ## 作品
-* 健康膳食網頁(運用HTML、CSS、jQuery製作RWD網頁) - https://github.com/hamilton25x/heifood
+### 健康膳食網頁 - https://github.com/hamilton25x/heifood
+* HTML、CSS、jQuery製作RWD網頁
+* 運用Animate.css
+### 旅遊網頁 - https://github.com/hamilton25x/heitravel
+* HTML、CSS、jQuery製作RWD網頁
+* 製作CSS動畫
 
 ## 自我介紹
 * 喜歡嘗試新技術，不希望侷限在自己目前所會的技術裡，期望自己每天都在進步。
