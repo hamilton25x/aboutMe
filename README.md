@@ -29,6 +29,7 @@
 ### 健康膳食網頁 - https://github.com/hamilton25x/heifood
 * HTML、CSS、jQuery製作RWD網頁
 * 運用Animate.css
+* 運用jQuery套件Waypoints
 ### 旅遊網頁 - https://github.com/hamilton25x/heitravel
 * HTML、CSS、jQuery製作RWD網頁
 * 製作CSS動畫
