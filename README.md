@@ -13,7 +13,6 @@
 * 熟悉 Flex 與 Grid Layout。
 * 能夠使用 CSS 做出網頁排版與 RWD 響應式設計。
 * 能夠使用 Pug 與 Sass 預處理器。
-* 能夠使用 Autoprefixer 後處理器。
 ### JavaScript / jQuery
 * 對 JavaScript / jQuery 有基礎的了解。
 * 會使用 AJAX 抓取第三方 API 資料呈現於網頁上。
