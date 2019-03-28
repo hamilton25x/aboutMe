@@ -54,8 +54,8 @@
 * JavaScript 判斷免費資訊並呈現於網頁。
 * RWD (Grid Layout)。
 ### 衛生福利部食品藥物管理署新聞 - https://github.com/hamilton25x/news
-* JavaScript 串接 JSON 資料。
-* Vue.js判斷。
+* jQuery 串接 JSON 資料。
+* Vue.js 屬性綁定。
 * RWD (Grid Layout)。
 # 自我介紹
 * 喜歡嘗試新技術，不希望侷限在自己目前所會的技術裡，期望自己每天都在進步。
