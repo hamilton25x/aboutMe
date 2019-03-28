@@ -21,8 +21,13 @@
 ## Bootstrap 
 * 能夠使用 Bootstrap 做出網頁排版與 RWD 響應式設計。
 * 能夠使用 Bootstrap 結合 Sass 編譯去自訂元件。
-## NPM
-* 能夠使用 Node.js 預設的套件管理工具。
+## Gulp
+* Pug 自動編譯為 HTML。
+* Sass 自動編譯為 CSS。
+* 自動加入瀏覽器前綴到 CSS 屬性。
+* 瀏覽器自動重新整理。
+* 打包壓縮 CSS 與 JavaScript。
+* 壓縮圖片。
 ## Git / GitHub
 * 對 Git 版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。
 * 能夠使用 GitHub Pages 建立一個靜態網頁。
