@@ -35,7 +35,6 @@
 * RWD (Float Layout)。
 * 使用 BEM 命名的設計模式。
 * 使用 Sass 預處理處。
-* 運用 node-sass 編譯 Sass。
 * 運用 CSS 製作動畫。
 ### 健康膳食網頁 - https://github.com/hamilton25x/heifood
 * RWD (Float Layout)。
