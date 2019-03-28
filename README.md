@@ -1,4 +1,4 @@
-﻿# 施恆益 (Hengyi Shih)
+# 施恆益 (Hengyi Shih)
 * Birthday : 1989/03/25
 * Education : 國立臺北科技大學研究所 - 土木防災所
 * Personal Website : https://github.com/hamilton25x
@@ -28,19 +28,24 @@
 * 能夠使用 GitHub Pages 建立一個靜態網頁。
 ### Vue.js (學習中)
 * 瞭解 Vue.js 基礎概念。
+
 ## 作品
-### 體驗大自然網頁 - https://github.com/hamilton25x/heinature
-* HTML、CSS、jQuery製作RWD網頁。
-* 運用 CSS 製作動畫。
+### 手刻RWD
+#### 體驗大自然網頁 - https://github.com/hamilton25x/heinature
 * 使用 BEM 命名的設計模式。
 * 使用 Sass 預處理處。
 * 運用 node-sass 編譯 Sass。
-### 健康膳食網頁 - https://github.com/hamilton25x/heifood
-* HTML、CSS、jQuery 製作 RWD 網頁
-* 運用 Animate.css
-* 運用 jQuery 套件 Waypoints
+* 運用 CSS 製作動畫。
+#### 健康膳食網頁 - https://github.com/hamilton25x/heifood
+* 運用 Animate.css。
+* 運用 jQuery 套件 Waypoints。
+### Bootstrap
 
-
+### AJAX串接資料
+#### 高雄市政府文化局演出活動 - https://github.com/hamilton25x/activity
+* jQuery 串接 JSON 資料。
+* JavaScript判斷免費資訊並呈現於網頁。
+* RWD (Grid Layout)。
 
 ## 自我介紹
 * 喜歡嘗試新技術，不希望侷限在自己目前所會的技術裡，期望自己每天都在進步。
