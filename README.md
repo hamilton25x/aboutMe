@@ -31,6 +31,7 @@
 
 ## 作品
 ### 手刻RWD
+---
 #### 體驗大自然網頁 - https://github.com/hamilton25x/heinature
 * 使用 BEM 命名的設計模式。
 * 使用 Sass 預處理處。
@@ -40,8 +41,10 @@
 * 運用 Animate.css。
 * 運用 jQuery 套件 Waypoints。
 ### Bootstrap
+---
 
 ### AJAX串接資料
+---
 #### 高雄市政府文化局演出活動 - https://github.com/hamilton25x/activity
 * jQuery 串接 JSON 資料。
 * JavaScript判斷免費資訊並呈現於網頁。
