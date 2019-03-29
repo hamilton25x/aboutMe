@@ -12,25 +12,25 @@
 * 瞭解 BEM 命名規範。
 * 熟悉 animate、transform 跟 transition。
 * 熟悉 Flex 與 Grid Layout。
-* 能夠使用 CSS 做出網頁排版與 RWD 響應式設計。
-* 能夠使用 Pug 與 Sass 預處理器。
+* 會使用 CSS 做出網頁排版與 RWD 響應式設計。
+* 會使用 Pug 與 Sass 預處理器。
 ## JavaScript / jQuery
 * 對 JavaScript / jQuery 有基礎的了解。
 * 會使用 AJAX 抓取第三方 API 資料呈現於網頁上。
 * 會套用 jQuery plugin 於網頁上。
 ## Bootstrap 
-* 能夠使用 Bootstrap 做出網頁排版與 RWD 響應式設計。
-* 能夠使用 Bootstrap 結合 Sass 編譯去自訂元件。
+* 會使用 Bootstrap 做出網頁排版與 RWD 響應式設計。
+* 會使用 Bootstrap 結合 Sass 編譯去自訂元件。
 ## Gulp
-* Pug 自動編譯為 HTML。
-* Sass 自動編譯為 CSS。
-* 自動加入瀏覽器前綴到 CSS 屬性。
-* 瀏覽器自動重新整理。
-* 打包壓縮 CSS 與 JavaScript。
-* 壓縮圖片。
+* 能將 Pug 自動編譯為 HTML。
+* 能將 Sass 自動編譯為 CSS。
+* 能自動加入瀏覽器前綴到 CSS 屬性。
+* 能使瀏覽器自動重新整理。
+* 能打包壓縮 CSS 與 JavaScript。
+* 能壓縮圖片。
 ## Git / GitHub
 * 對 Git 版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。
-* 能夠使用 GitHub Pages 建立一個靜態網頁。
+* 會使用 GitHub Pages 建立一個靜態網頁。
 ## Vue.js (學習中)
 * 瞭解 Vue.js 基礎概念。
 
