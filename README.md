@@ -13,7 +13,8 @@
 * 熟悉 animate、transform 跟 transition。
 * 熟悉 Flex 與 Grid Layout。
 * 會使用 CSS 做出網頁排版與 RWD 響應式設計。
-* 會使用 Pug 與 Sass 預處理器。
+* 會使用 Pug 模版語言。
+* 會使用 Sass 有效管理 CSS。
 ## JavaScript / jQuery
 * 對 JavaScript / jQuery 有基礎的了解。
 * 會使用 AJAX 抓取第三方 API 資料呈現於網頁上。
@@ -26,8 +27,7 @@
 * 能將 Sass 自動編譯為 CSS。
 * 能自動加入瀏覽器前綴到 CSS 屬性。
 * 能使瀏覽器自動重新整理。
-* 能打包壓縮 CSS 與 JavaScript。
-* 能壓縮圖片。
+* 能打包壓縮 HTML、CSS 與 JavaScript。
 ## Git / GitHub
 * 對 Git 版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。
 * 會使用 GitHub Pages 建立一個靜態網頁。
