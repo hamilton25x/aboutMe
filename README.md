@@ -36,12 +36,12 @@
 * 瞭解 Vue.js 基礎概念。
 
 # 作品
-## Bootstrap、Gulp
+## Bootstrap、Gulp、AJAX
 ### 旅遊資訊網 - https://github.com/hamilton25x/travel
 * 使用 Pug 模版語言，建置多頁式網頁，並匯入 JSON 資料。
 * 運用 Bootstrap 做出 RWD 並結合 Sass 編譯去自訂設計。
 * Gulp 編譯及打包。
-* AJAX 串接 JSON 資料。
+* Node.js 套件透過 AJAX 串接 JSON 資料。
 ## 手刻RWD
 ### 體驗大自然網頁 - https://github.com/hamilton25x/heinature
 * RWD (Float Layout)。
@@ -52,13 +52,13 @@
 * RWD (Float Layout)。
 * 運用 Animate.css。
 * 運用 jQuery 套件 Waypoints。
-## AJAX串接資料
+## jQuery AJAX串接資料
 ### 高雄市政府文化局演出活動 - https://github.com/hamilton25x/activity
-* jQuery 串接 JSON 資料。
+* jQuery 透過 AJAX 方式串接 JSON 資料。
 * JavaScript 判斷免費資訊並呈現於網頁。
 * RWD (Grid Layout)。
 ### 衛生福利部食品藥物管理署新聞 - https://github.com/hamilton25x/news
-* jQuery 串接 JSON 資料。
+* jQuery 透過 AJAX 方式串接 JSON 資料。
 * Vue.js 屬性綁定。
 * RWD (Grid Layout)。
 # 自我介紹
