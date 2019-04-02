@@ -27,7 +27,8 @@
 * 能將 Sass 自動編譯為 CSS。
 * 能自動加入瀏覽器前綴到 CSS 屬性。
 * 能使瀏覽器自動重新整理。
-* 能打包壓縮 HTML、CSS 與 JavaScript。
+* 能打包壓縮 HTML、CSS、JavaScript 與圖片。
+
 ## Git / GitHub
 * 對 Git 版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。
 * 會使用 GitHub Pages 建立一個靜態網頁。
@@ -35,20 +36,23 @@
 * 瞭解 Vue.js 基礎概念。
 
 # 作品
+## Bootstrap - 
+### 旅遊資訊網 - https://github.com/hamilton25x/travel
+* 使用 Pug 模版語言，建置多頁式網頁，並匯入 JSON 資料。
+* 運用 Bootstrap 做出 RWD 並結合 Sass 編譯去自訂設計。
+* Gulp 編譯及打包。
+* AJAX 串接JSON 資料。
 ## 手刻RWD
 ### 體驗大自然網頁 - https://github.com/hamilton25x/heinature
 * RWD (Float Layout)。
 * 使用 BEM 命名的設計模式。
-* 使用 Sass 預處理處。
+* 使用 Sass 預處理器。
 * 運用 CSS 製作動畫。
 ### 健康膳食網頁 - https://github.com/hamilton25x/heifood
 * RWD (Float Layout)。
 * 運用 Animate.css。
 * 運用 jQuery 套件 Waypoints。
-## Bootstrap
-
 ## AJAX串接資料
-
 ### 高雄市政府文化局演出活動 - https://github.com/hamilton25x/activity
 * jQuery 串接 JSON 資料。
 * JavaScript 判斷免費資訊並呈現於網頁。
