@@ -36,7 +36,7 @@
 * 瞭解 Vue.js 基礎概念。
 
 # 作品
-## Bootstrap、Pug、Sass、Gulp、AJAX
+## Bootstrap、Gulp、AJAX
 ### 旅遊資訊網 - https://github.com/hamilton25x/travel
 * 使用 Pug 模版語言，建置多頁式網頁，並匯入 JSON 資料。
 * 使用 Pug 條件式、迴圈、繼承性及匯入功能。
@@ -44,13 +44,12 @@
 * jQuery 判斷 select 指定值，並跑迴圈將符合條件之資料呈現於網頁上。
 * Gulp 編譯及打包。
 * Node.js 套件透過 AJAX 串接 JSON 資料。
-## 手刻RWD、Sass、CSS 動畫。
+## 手刻RWD
 ### 體驗大自然網頁 - https://github.com/hamilton25x/heinature
 * RWD (Float Layout)。
 * 使用 BEM 命名的設計模式。
 * 使用 Sass 預處理器。
 * 運用 CSS 製作動畫。
-## 手刻RWD、CSS、jQuery 套件
 ### 健康膳食網頁 - https://github.com/hamilton25x/heifood
 * RWD (Float Layout)。
 * 運用 Animate.css。
