@@ -39,7 +39,9 @@
 ## Bootstrap、Gulp、AJAX
 ### 旅遊資訊網 - https://github.com/hamilton25x/travel
 * 使用 Pug 模版語言，建置多頁式網頁，並匯入 JSON 資料。
+* 使用 Pug 條件式、迴圈、繼承性及匯入功能。
 * 運用 Bootstrap 做出 RWD 並結合 Sass 編譯去自訂設計。
+* jQuery 判斷 select 指定值，並跑迴圈將符合條件之資料呈現於網頁上。
 * Gulp 編譯及打包。
 * Node.js 套件透過 AJAX 串接 JSON 資料。
 ## 手刻RWD
