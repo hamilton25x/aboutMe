@@ -54,7 +54,7 @@
 * RWD (Float Layout)。
 * 運用 Animate.css。
 * 運用 jQuery 套件 Waypoints。
-## jQuery AJAX串接資料
+## jQuery AJAX 串接資料
 ### 高雄市政府文化局演出活動 - https://github.com/hamilton25x/activity
 * jQuery 透過 AJAX 方式串接 JSON 資料。
 * JavaScript 判斷免費資訊並呈現於網頁。
