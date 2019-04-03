@@ -51,6 +51,7 @@
 * 使用 Sass 預處理器。
 * 運用 CSS 製作動畫。
 ### 健康膳食網頁 - https://github.com/hamilton25x/heifood
+![](https://i.imgur.com/OBlxuzM.jpg)
 * RWD (Float Layout)。
 * 運用 Animate.css。
 * 運用 jQuery 套件 Waypoints。
