@@ -36,7 +36,7 @@
 * 瞭解 Vue.js 基礎概念。
 
 # 作品
-## Bootstrap、Gulp、AJAX
+## Bootstrap、Pug、Gulp、AJAX
 ### 旅遊資訊網 - https://github.com/hamilton25x/travel
 * 使用 Pug 模版語言，建置多頁式網頁，並匯入 JSON 資料。
 * 使用 Pug 條件式、迴圈、繼承性及匯入功能。
