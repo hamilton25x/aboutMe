@@ -45,7 +45,7 @@
 * Node.js 套件透過 AJAX 串接 JSON 資料。
 * jQuery 判斷 select 指定值，並跑迴圈將符合條件之資料呈現於網頁上。
 ## 手刻RWD
-### 體驗大自然網頁 - https://github.com/hamilton25x/heinature
+### 自然旅館網頁 - https://github.com/hamilton25x/heinature
 * RWD (Float Layout)。
 * 使用 BEM 命名的設計模式。
 * 使用 Sass 預處理器。
