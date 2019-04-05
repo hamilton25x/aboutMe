@@ -32,8 +32,6 @@
 ## Git / GitHub
 * 對 Git 版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。
 * 會使用 GitHub Pages 建立一個靜態網頁。
-## Vue.js (研究中)
-* 瞭解 Vue.js 基礎概念。
 
 # 作品
 ## Bootstrap、Pug、Sass、Gulp、AJAX
