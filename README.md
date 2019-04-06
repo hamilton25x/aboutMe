@@ -36,7 +36,7 @@
 # 作品
 ## Bootstrap、Pug、Sass、Gulp、AJAX
 ### 旅遊資訊網 - https://github.com/hamilton25x/travelinfo
-![](https://i.imgur.com/quj9eGb.jpg)
+![](https://i.imgur.com/ABfpN2s.jpg)
 * 使用 Pug 模版語言，建置多頁式網頁，並匯入 JSON 資料。
 * 使用 Pug 條件式、迴圈、繼承性及匯入功能。
 * 運用 Bootstrap 做出 RWD 並結合 Sass 編譯去自訂設計。
