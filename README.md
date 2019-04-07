@@ -10,7 +10,6 @@
 ## HTML / CSS (Pug / Sass)
 * 瞭解 HTML 語意。
 * 瞭解 BEM 命名規範。
-* 熟悉 animate、transform 跟 transition。
 * 熟悉 Flex 與 Grid Layout。
 * 會使用 CSS 做出網頁排版與 RWD 響應式設計。
 * 會使用 Pug 模版語言。
@@ -28,7 +27,6 @@
 * 能自動加入瀏覽器前綴到 CSS 屬性。
 * 能使瀏覽器自動重新整理。
 * 能打包壓縮 HTML、CSS、JavaScript 與圖片。
-
 ## Git / GitHub
 * 對 Git 版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。
 * 會使用 GitHub Pages 建立一個靜態網頁。
