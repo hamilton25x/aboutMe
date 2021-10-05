@@ -4,7 +4,6 @@
 * Personal Website : https://github.com/hamilton25x
 * Location : 彰化縣
 * E-Mail : hamilton25x@hotmail.com
-* Mobile : 0923711202
 
 # 技能
 ## HTML / CSS (Pug / Sass)
